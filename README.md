@@ -12,7 +12,16 @@ Aplikasi web untuk **mencatat stok dan transaksi barang**, lalu **menghitung keb
 Aplikasi punya dua peran: **Karyawan** yang mengelola data harian, dan **Owner** yang memakai hasil perhitungan untuk merencanakan pembelian.
 
 ---
+## Tampilan Aplikasi
 
+### Halaman Login
+![Halaman login](images/login.jpeg)
+
+### Halaman Karyawan
+![Halaman karyawan](images/karyawan.jpeg)
+
+### Halaman Owner
+![Halaman owner](images/owner.jpeg)
 ## Fitur Utama
 
 ### Karyawan
